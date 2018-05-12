@@ -1,0 +1,29 @@
+_repo: Cyclopedia-of-Commerce-Accountancy-Business-Administration-v.-1_46424
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46424-h/images/cover.jpg
+creator:
+  author:
+    agent_name: American School of Correspondence
+    aliases:
+    - American School at Armour Institute of Technology
+    - Armour Institute of Technology. American School of Correspondence
+    gutenberg_agent_id: '6164'
+    url: http://www.gutenberg.org/2009/agents/6164
+description: ''
+gutenberg_issued: '2014-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Accounting'
+- !lcsh 'Business'
+- !lcc 'HF'
+- !lcsh 'Commerce'
+title: Cyclopedia of Commerce, Accountancy, Business Administration, v. 01 (of 10)
+url: http://www.gutenberg.org/ebooks/46424
